@@ -1,0 +1,22 @@
+What is the definition of server port?
+Web server ports are the logical endpoints of a network connection that is used to exchange information between a web server and a web client.
+
+• What is server port range?
+- 0-65535
+
+
+• How many bits does number above represent?
+
+-16 bits
+
+• State 10 common server ports
+Secure Shell (SSH) - 22
+Telnet - 23
+Http - 80
+Ftp - 20
+NTP - 123
+IRC - 194
+IMAP - 143
+NNTP - 119
+HTTPS - 443
+DNS - 53
